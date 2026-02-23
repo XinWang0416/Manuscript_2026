@@ -16,3 +16,5 @@ Python Packages:
     pandas 2.2.2
     scipy 1.15.1
     mygene 3.2.2
+    numpy 1.26.4
+    matplotlib 3.10.0
