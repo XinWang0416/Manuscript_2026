@@ -18,3 +18,16 @@ Python Packages:
     mygene 3.2.2
     numpy 1.26.4
     matplotlib 3.10.0
+
+Installation:
+    Download and unzip the repository on a local path. The installation process takes approximately 15 minutes.
+
+Running the Scripts in Python:
+   1. Assuming "Manuscript.Zhu.et.al" is the local path of the repository
+   2. Open each individual script files; replace the "Customized directory" to the local directory path before loading the script
+   3. The script execution takes around 15 minutes in total, and the runtime may vary based on computer configuration.
+
+Test Environment: Windows 11 with WSL2 (Ubuntu 22.04.5 LTS) on x86_64
+    Python Version: 3.11.11 (conda-forge)
+
+Feel free to contact us at ghwang@tjh.tjmu.edu.cn for any assistance or inquiries.
