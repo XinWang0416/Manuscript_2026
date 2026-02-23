@@ -1,6 +1,6 @@
 # Manuscript_2026
 scRNA-seq analysis code
-This repository contains the code used for the single-cell analysis of Cd45 positive cells from MMTV-pymt tumor-bearing mice.
+This repository contains the code used for the single-cell analysis of Cd45 positive cells from MMTV-pymt mice.
 
 Data and Folder Structure:
     Code Files: All code files, annotated for each figure, can be found in the "/Source" folder.
