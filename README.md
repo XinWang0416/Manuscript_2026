@@ -18,6 +18,8 @@ Python Packages:
     mygene 3.2.2
     numpy 1.26.4
     matplotlib 3.10.0
+    statsmodels 0.14.4
+    seaborn 0.13.2
 
 Installation:
     Download and unzip the repository on a local path. The installation process takes approximately 15 minutes.
